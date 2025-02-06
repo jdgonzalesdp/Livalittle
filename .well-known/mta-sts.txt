@@ -1,4 +1,4 @@
-\f0\fs24 \cf0 version: STSv1\
+version: STSv1\
 mode: enforce\
 mx: *.livalittle.com\
 max_age: 86400}
